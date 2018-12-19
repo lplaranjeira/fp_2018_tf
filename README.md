@@ -29,14 +29,17 @@ Estrutura do trabalho:
 
 •	Código Python 3, demo/ jogo a funcionar com Janelas Pygame e algumas funcionalidades
 jogáveis (50%)
+
 •	Qualidade das mecânicas acrescentadas (30%). Cores, desenhar formas gráficas,
 exibir imagens de bitmap, animar, interagir com o teclado ou rato.
+
 •	Legibilidade do código; utiliza estruturas adequadas; nomes significativos para
 variáveis e funções; separação do código por funções; listas, etc. (20%)
 
 Notas:
 
 –	Teste Indiividual.
+
 – Anexos: Documento com o resumo das mecânicas do Teste 2.
 
 
